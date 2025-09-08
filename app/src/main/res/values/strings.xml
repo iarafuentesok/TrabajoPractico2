@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Trabajo Practico 2</string>
+    <string name="titulo_libro">Título del libro</string>
+    <string name="autor_libro">Autor del libro</string>
+    <string name="descripcion_libro">Descripción del libro</string>
+    <string name="hint_buscar_libro">Escribí el título del libro</string>
+    <string name="btn_buscar">Buscar</string>
+
 </resources>
